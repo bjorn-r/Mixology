@@ -4,5 +4,5 @@ Lite blandade drycker och drinkar.
 
 * [Fredags drinkar](Fredags%20Drink/ReadMe.Md)
 * [Julmust baserade drinkar](Julmust/ReadMe.md)
-* [G & Tea](GandTea\ReadMe.md)
+* [G & Tea](GandTea/ReadMe.md)
 * [Shots (och liknande)](Shots/ReadMe.md)

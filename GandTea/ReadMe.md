@@ -14,7 +14,7 @@ Jag har gjort en del mindre ändrinar.
 |Citron Juice|1 cl||
 |Agave Sirap|"skvätt"|Detta är för att balasera drinken om den blr för sur eller bitter. En tesked räcker väl.|
 
-Rör ihop (skaka ej) med en is bit. Om sirapen är kylskåpskall så kan man hoppas över isen.   
+Rör ihop (skaka ej) med en is bit. Om sirapen är kylskåpskall så kan man hoppa över isen.   
 Servera i en Tekopp. (Alternativ gör en dubbel och servera i en Temugg.)
 
 ## Earl Gray Sirap
