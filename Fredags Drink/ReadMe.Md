@@ -116,3 +116,26 @@ Glas : Cocktailglas
 |sockerlag (1:1)|1 cl||
 
 Skakas med is, sila upp i ett kylt cocktailglas och garnera med en limeskiva på kanten.
+
+## Troca-ROM (Rom & Trocadero)
+Glas : Highball
+
+|Type|mängd|info|
+|----|-----|----|
+|Mörk Rom|4 cl||
+|Limejuice|1 cl||
+|Trocadero|16 cl||
+
+Blandas enklast i glaset med två isbitar.
+
+## Troca-DUM (Silver Rom & Trocadero)
+Glas : Highball
+
+|Type|mängd|info|
+|----|-----|----|
+|Silver Rom|4 cl||
+|Limejuice|1 cl||
+|Trocadero|16 cl||
+
+Blandas enklast i glaset med två isbitar.  
+Notering: Beroende på silver-rommen så kan denna smaka lösningsmedel samt kännas som ett dåligt livsval.  
