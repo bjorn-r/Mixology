@@ -60,6 +60,7 @@ Glas : Cocktailglas
 3. Byt ut gin till vodka och ha en tesken maraschino sirap i "shaker". 
 4. Skakas med is. 
 
+<a name="tsm"></a>
 ## TSM (Tonic, Southern comfort, Malibu)
 Glas : Highball
 
@@ -71,6 +72,31 @@ Glas : Highball
 
 Blandas enklast i glaset med två isbitar. Ganera gärna med en lita siva citron eller lime.
 
+<a name="tsm_pro"></a>
+## TSM Pro (Tequila, Southern comfort, Midori) - Alpha - Pre release (dvs jag har inte testat denna ännu)
+Glas : Snappsglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Tequila|1 cl||
+|Southern Comfort|1 cl||
+|Midori|1 cl||
+
+"Blandas" direkt i ett snappsglas gärna i lager. 
+
+<a name="my_miami_cocktail"></a>
+## (My) Miami Cocktail , en variant ... 
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Cointreau |30 ml||
+|Citron Juice|25 ml||
+|Ljus/Vit/Silver Rom|45 ml||
+
+Skakas med is i en shaker
+
+<a name="redneck_blitzkreig"></a>
 ## Redneck Blitzkreig
 Glas : Cocktailglas eller litem tumlare.
 
@@ -83,28 +109,7 @@ Glas : Cocktailglas eller litem tumlare.
 Skakas med is och tillsätt tonic i glaset för att får behålla kolsyran.  
 Ganera gärnan med en "lemon twist".
 
-## TSM Pro (Tequila, Southern comfort, Midori) - Alpha - Pre release (dvs jag har inte testat denna ännu)
-Glas : Snappsglas
-
-|Type|mängd|info|
-|----|-----|----|
-|Tequila|1 cl||
-|Southern Comfort|1 cl||
-|Midori|1 cl||
-
-"Blandas" direkt i ett snappsglas gärna i lager. 
-
-## (My) Miami Cocktail , en variant ... 
-Glas : Cocktailglas
-
-|Type|mängd|info|
-|----|-----|----|
-|Cointreau |30 ml||
-|Citron Juice|25 ml||
-|Ljus/Vit/Silver Rom|45 ml||
-
-Skakas med is i en shaker
-
+<a name="jaegertini"></a>
 ## Jägerita / Jaegertini
 Glas : Cocktailglas
 
@@ -117,6 +122,7 @@ Glas : Cocktailglas
 
 Skakas med is, sila upp i ett kylt cocktailglas och garnera med en limeskiva på kanten.
 
+<a name="troca_rom"></a>
 ## Troca-ROM (Rom & Trocadero)
 Glas : Highball
 
@@ -128,6 +134,7 @@ Glas : Highball
 
 Blandas enklast i glaset med två isbitar.
 
+<a name="troca_dum"></a>
 ## Troca-DUM (Silver Rom & Trocadero)
 Glas : Highball
 
@@ -139,3 +146,17 @@ Glas : Highball
 
 Blandas enklast i glaset med två isbitar.  
 Notering: Beroende på silver-rommen så kan denna smaka lösningsmedel samt kännas som ett dåligt livsval.  
+
+<a name="orange_top"></a>
+## Orange Top (aka Orange Werid Easter Rooster)
+Glas : Highball
+
+|Type|mängd|info|
+|----|-----|----|
+|Mörk Rom|4 cl||
+|Lime juice|1 cl||
+|Klementin juice|1 cl||
+|Påsk Must|16 cl||
+
+Blandas enklast i glaset med två isbitar.   
+Notering: Denna är väldigt lik en Caribbean Santa (aka Rom-Tomte)
