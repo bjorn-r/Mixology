@@ -6,7 +6,17 @@
 * [BumbleBee](#bumblebee)
 * [Aviator](#aviator)
 * [Russian Pilot (aka Aeroflot Aviator)](#aviator2)
-
+* [TSM](#tsm)
+* [TSM P.R.O.](#tsm_pro)
+* [My Miami Cocktail](#my_miami_cocktail)
+* [Redneck Blitzkreig](#redneck_blitzkreig)
+* [Jaegertini](#jaegertini)
+* [Troca Rom](#troca_rom)
+* [Troca Dum](#troca_dum)
+* [Orange Top](#orange_top)
+* [Screwdriver](#screwdriver)
+* [Gin & Juice](#gin_n_juice)
+* [Salty Dog](#salty_dog)
 
 ---
 <a name="bees_knees"></a>
@@ -160,3 +170,41 @@ Glas : Highball
 
 Blandas enklast i glaset med två isbitar.   
 Notering: Denna är väldigt lik en Caribbean Santa (aka Rom-Tomte)
+
+
+<a name="screwdriver"></a>
+## Screwdriver
+Glas : Highball
+
+|Type|mängd|info|
+|----|-----|----|
+|Vodka|6 cl||
+|Apelsin juice|16 cl||
+
+Blandas enklast i glaset med två isbitar.   
+Notering: Normalt så kräven en drink minst tre ingredienser. Is räknas inte ... så detta är med en "Long Shot"
+
+<a name="gin_n_juice"></a>
+## Gin & juice 
+Glas : Highball eller stor mugg. 
+
+|Type|mängd|info|
+|----|-----|----|
+|Gin|6 cl||
+|Apelsin juice|16 cl||
+
+Blandas enklast i glaset med två isbitar.   
+Notering: Normalt så kräven en drink minst tre ingredienser. Is räknas inte ... men om man nynnar på Snoop Dog så är det ok.
+
+<a name="salty_dog"></a>
+## Salty Dog
+Glas : Highball 
+
+|Type|mängd|info|
+|----|-----|----|
+|Vodka|6 cl||
+|Grapefrukt juice|16 cl||
+|Fling salt||På toppen eller runt glaset.
+
+Blandas enklast i glaset med två isbitar.   
+Notering: Salt kan räknas som en ingrediens. 
