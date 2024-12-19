@@ -13,7 +13,7 @@
 * [The French (Christmas) Connection  (aka Gene Hackman Tomte)](#cointreau)
 * [Bad Santa (aka Whiskey-Tomte)](#whiskey)
 * [Irish Santa (aka Shane MacGowan Tomte, aka Grogg-Tomte)](#nej)
-* [Piggelin Tomte](#pigglin)
+* [Piggelin Tomte](#piggelin)
 
 ---
 
@@ -140,7 +140,7 @@ Glas : Helst
 50/50 Irrlänsk wiskey och julmust lyssnandes till The Pogues samtidigt som man håller en (kall) potatis i handen.
 
 <a name="piggelin"></a>
-## Piggelin Tomte (valiant på Rom-Tomte)
+## Piggelin Tomte (Variant på Rom-Tomte)
 Glas : Highball eller collins glas
 
 |Type|mängd|info|
