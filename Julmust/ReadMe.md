@@ -13,6 +13,7 @@
 * [The French (Christmas) Connection  (aka Gene Hackman Tomte)](#cointreau)
 * [Bad Santa (aka Whiskey-Tomte)](#whiskey)
 * [Irish Santa (aka Shane MacGowan Tomte, aka Grogg-Tomte)](#nej)
+* [Piggelin Tomte](#pigglin)
 
 ---
 
@@ -137,3 +138,17 @@ Glas : Helst
 |Potatis|1 st||
 
 50/50 Irrlänsk wiskey och julmust lyssnandes till The Pogues samtidigt som man håller en (kall) potatis i handen.
+
+<a name="piggelin"></a>
+## Piggelin Tomte (valiant på Rom-Tomte)
+Glas : Highball eller collins glas
+
+|Type|mängd|info|
+|----|-----|----|
+|Citron Juice|1 cl||
+|Klementin Juice|2 cl|Mandarin funkar också.|
+|Rom|4 cl|Helst mörk|
+|Pigelin|½|Halv pigelin i isbit stora kuber)
+|Julmust|ca 15 cl| Fyll upp glaset|
+
+Lägg två iskuber och piggelinen i botten av glaset. Tillsätt alla ingredienser avsluta med att fylla upp glaset med julmust. 

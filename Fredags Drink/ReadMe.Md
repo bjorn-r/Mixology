@@ -17,6 +17,9 @@
 * [Screwdriver](#screwdriver)
 * [Gin & Juice](#gin_n_juice)
 * [Salty Dog](#salty_dog)
+* [Santa's Knee](#santas_knees)
+* [Yellowjacket](#wasp)
+
 
 ---
 <a name="bees_knees"></a>
@@ -208,3 +211,32 @@ Glas : Highball
 
 Blandas enklast i glaset med två isbitar.   
 Notering: Salt kan räknas som en ingrediens. 
+
+
+<a name="santas_knees"></a>
+## Santa's Knee x2
+Glas : Cocktailglas eller litem tumlare.
+
+|Type|mängd|info|
+|----|-----|----|
+|Agave Sirap|1 cl||
+|Citron Juice|1 cl||
+|Mandarin Juice|2 cl|Juicen från en hel mandarin eller klementin.|
+|Rom|2*4 cl|Helst mörk rom|
+|Kanel||ca en knivsudd|
+
+Skakas med is och serverar i två mindre glas.  
+Notering: detta är en jul variant av BumblBee
+
+
+<a name="wasp"></a>
+## Yellowjacket x2 (Geting)
+Glas : Cocktailglas eller litem tumlare.
+
+|Type|mängd|info|
+|----|-----|----|
+|Agave Sirap|1 cl||
+|Lime Juice|1 cl||
+|Southern Comfort|8 cl||
+
+Skakas med is och serverar i två mindre glas.  
