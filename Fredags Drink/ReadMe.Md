@@ -19,6 +19,7 @@
 * [Salty Dog](#salty_dog)
 * [Santa's Knee](#santas_knees)
 * [Yellowjacket](#wasp)
+* [White Wasp](#white_wasp)
 
 
 ---
@@ -238,5 +239,18 @@ Glas : Cocktailglas eller litem tumlare.
 |Agave Sirap|1 cl||
 |Lime Juice|1 cl||
 |Southern Comfort|8 cl||
+
+Skakas med is och serverar i två mindre glas.  
+
+<a name="white_wasp"></a>
+## White Wasp x2
+Glas : Cocktailglas eller litem tumlare.
+
+|Type|mängd|info|
+|----|-----|----|
+|Agave Sirap|1 cl||
+|Citron Juice|2 cl||
+|Vodka|6 cl||
+|Cointreau|2 cl||
 
 Skakas med is och serverar i två mindre glas.  
