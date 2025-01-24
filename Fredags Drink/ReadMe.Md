@@ -20,6 +20,7 @@
 * [Santa's Knee](#santas_knees)
 * [Yellowjacket](#wasp)
 * [White Wasp](#white_wasp)
+* [Tennessee Wasp](#tennessee_wasp)
 
 
 ---
@@ -254,3 +255,16 @@ Glas : Cocktailglas eller litem tumlare.
 |Cointreau|2 cl||
 
 Skakas med is och serverar i två mindre glas.  
+
+<a name="tennessee_wasp"></a>
+## Tennessee Wasp x2 (aka Lemmy-Kneee)
+Glas : Cocktailglas eller litem tumlare.
+
+|Type|mängd|info|
+|----|-----|----|
+|Agave Sirap|1 cl||
+|Citron Juice|2 cl||
+|Jack Daniels|4 cl||
+|Cointreau|1 cl||
+
+Skakas med is och serverar i två mindre glas. 
