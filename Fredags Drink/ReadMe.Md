@@ -264,7 +264,7 @@ Glas : Cocktailglas eller litem tumlare.
 |----|-----|----|
 |Agave Sirap|1 cl||
 |Citron Juice|2 cl||
-|Jack Daniels|4 cl||
+|Jack Daniels|8 cl||
 |Cointreau|1 cl||
 
 Skakas med is och serverar i två mindre glas. 
