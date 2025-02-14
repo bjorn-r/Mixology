@@ -21,7 +21,7 @@
 * [Yellowjacket](#wasp)
 * [White Wasp](#white_wasp)
 * [Tennessee Wasp](#tennessee_wasp)
-
+* [Lynchburg Lemonade](#lynchburg_lemonade)
 
 ---
 <a name="bees_knees"></a>
@@ -268,3 +268,17 @@ Glas : Cocktailglas eller litem tumlare.
 |Cointreau|1 cl||
 
 Skakas med is och serverar i två mindre glas. 
+
+
+<a name="lynchburg_lemonade"></a>
+## Lynchburg Lemonade
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Jack Daniel's|3 cl||
+|Triple sec|2 cl||
+|citronjuice|2 cl||
+|Sprite eller 7-Up|16 cl||
+
+Blandas i glas med is och ganeras med en Citronskiva.
