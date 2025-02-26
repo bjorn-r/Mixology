@@ -296,5 +296,4 @@ Glas : Cocktailglas
 |citronjuice|3 cl||
 |Angostura Bitter | 2 skak | (valfritt) ||
 
-
 Skakas med is och serveras
