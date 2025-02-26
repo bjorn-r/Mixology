@@ -22,6 +22,7 @@
 * [White Wasp](#white_wasp)
 * [Tennessee Wasp](#tennessee_wasp)
 * [Lynchburg Lemonade](#lynchburg_lemonade)
+* [Army & Navy](#armynavy)
 
 ---
 <a name="bees_knees"></a>
@@ -282,3 +283,18 @@ Glas : Cocktailglas
 |Sprite eller 7-Up|16 cl||
 
 Blandas i glas med is och ganeras med en Citronskiva.
+
+
+<a name="armynavy"></a>
+## Army & Navy
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Gin |5 cl||
+|Orgeat|3 cl||
+|citronjuice|3 cl||
+|Angostura Bitter | 2 skak | (valfritt) ||
+
+
+Skakas med is och serveras
