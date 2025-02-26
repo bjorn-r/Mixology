@@ -291,9 +291,9 @@ Glas : Cocktailglas
 
 |Type|mängd|info|
 |----|-----|----|
-|Gin |5 cl||
-|Orgeat|3 cl||
+|Gin |6 cl||
+|Orgeat|1,5 cl||
 |citronjuice|3 cl||
-|Angostura Bitter | 2 skak | (valfritt) ||
+|Angostura Bitter | 2 skvättar | (valfritt, färgar drinken) ||
 
 Skakas med is och serveras
