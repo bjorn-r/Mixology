@@ -5,8 +5,3 @@
 layout: home
 ---
 
-[Fredags Drinkar]({% link Fredags Drink.md %})
-[Julmust]({% link Julmust.md %})
-[G and Tea]({% link GandTea.md %})
-[Shots]({% link Shots.md %})
-
