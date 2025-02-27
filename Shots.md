@@ -1,4 +1,4 @@
-# Mixology by Anders Årstrand
+# Shots
 
 ## Shots och liknande
 En drink ska ha minst tre ingredienser.  

@@ -1,6 +1,4 @@
-# Mixology by Anders Årstrand
-
-# Drinkar
+# Fredagsdrinkar
 
 * [Bee´s Knee´s](#bees_knees)
 * [BumbleBee](#bumblebee)
@@ -100,7 +98,7 @@ Glas : Snappsglas
 "Blandas" direkt i ett snappsglas gärna i lager. 
 
 <a name="my_miami_cocktail"></a>
-## (My) Miami Cocktail , en variant ... 
+## (My) Miami Cocktail , en variant ...
 Glas : Cocktailglas
 
 |Type|mängd|info|
@@ -190,7 +188,7 @@ Blandas enklast i glaset med två isbitar.
 Notering: Normalt så kräven en drink minst tre ingredienser. Is räknas inte ... så detta är med en "Long Shot"
 
 <a name="gin_n_juice"></a>
-## Gin & juice 
+## Gin & juice
 Glas : Highball eller stor mugg. 
 
 |Type|mängd|info|

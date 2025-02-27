@@ -1,11 +1,8 @@
-# Mixology by Anders Årstrand
+# G and Tea
 Detta är en ny favorit bland "udda" GIN-drinkar.
 
-# G & Tea
 Detta kommer from en TV show som familjen tittar på.  
 Jag har gjort en del mindre ändrinar.
-
-## G & Tea
 
 |Type|mängd|info|
 |----|-----|----|
